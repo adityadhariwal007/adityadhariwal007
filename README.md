@@ -153,6 +153,9 @@
   <a href="mailto:adityaa250707@gmail.com">
     <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
   </a>
+  <a href="https://www.instagram.com/aditya.100_/">
+    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow aditya.100_ on Instagram" />
+  </a>
   <a href="https://t.me/aditya_250707">
     <img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram" />
   </a>
