@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,100:2563EB&amp;height=230&amp;section=header&amp;text=Aditya%20Dhariwal&amp;fontSize=46&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=WEB%20DEVELOPER%20%2F%20COMPUTER%20ENGINEERING&amp;descSize=14&amp;descAlignY=58&amp;animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220%2C100:2563EB&amp;height=230&amp;section=header&amp;text=Aditya%20Dhariwal&amp;fontSize=46&amp;fontColor=F8FAFC&amp;fontAlignY=38&amp;desc=WEB%20DEVELOPER%20%2F%20COMPUTER%20ENGINEERING&amp;descSize=14&amp;descAlignY=58&amp;animation=fadeIn" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EFF6FF,100:BFDBFE&amp;height=230&amp;section=header&amp;text=Aditya%20Dhariwal&amp;fontSize=46&amp;fontColor=0B1220&amp;fontAlignY=38&amp;desc=WEB%20DEVELOPER%20%2F%20COMPUTER%20ENGINEERING&amp;descSize=14&amp;descAlignY=58&amp;animation=fadeIn" alt="Aditya Dhariwal — Web Developer / Computer Engineering" />
   </picture>
 </p>
@@ -13,15 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://campusbucket.live">
-    <img src="https://img.shields.io/badge/Explore_Campus_Bucket-2563EB?style=for-the-badge" alt="Explore Campus Bucket" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-dhariwal-3a9474280/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adityaa250707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge" alt="Email Aditya" />
-  </a>
+  <a href="https://campusbucket.live"><img src="https://img.shields.io/badge/Explore_Campus_Bucket-2563EB?style=for-the-badge" alt="Explore Campus Bucket" /></a>
+  <a href="https://www.linkedin.com/in/aditya-dhariwal-3a9474280/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="mailto:adityaa250707@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge" alt="Email Aditya" /></a>
 </p>
 
 <br />
@@ -46,12 +40,8 @@
       <p>A campus essentials store and Thapar-first student resale marketplace.</p>
       <p><sub>Next.js · React · TypeScript · Supabase · Cloudflare</sub></p>
       <p>
-        <a href="https://campusbucket.live">
-          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square" alt="Campus Bucket live demo" />
-        </a>
-        <a href="https://github.com/adityadhariwal007/campus-bucket">
-          <img src="https://img.shields.io/badge/Repo-0B1220?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Campus Bucket repository" />
-        </a>
+        <a href="https://campusbucket.live"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square" alt="Campus Bucket live demo" /></a>
+        <a href="https://github.com/adityadhariwal007/campus-bucket"><img src="https://img.shields.io/badge/Repo-0B1220?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Campus Bucket repository" /></a>
       </p>
     </td>
     <td width="50%" valign="top" align="center">
@@ -59,12 +49,8 @@
       <p>A healthcare coordination prototype with patient, doctor and admin interfaces.</p>
       <p><sub>React · Vite · Node.js · Leaflet · Socket.IO</sub></p>
       <p>
-        <a href="https://smart-indian-hackathon.vercel.app">
-          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square" alt="HealthFlow live demo" />
-        </a>
-        <a href="https://github.com/adityadhariwal007/smart-indian-hackathon">
-          <img src="https://img.shields.io/badge/Repo-0B1220?style=flat-square&amp;logo=github&amp;logoColor=white" alt="HealthFlow repository" />
-        </a>
+        <a href="https://smart-indian-hackathon.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square" alt="HealthFlow live demo" /></a>
+        <a href="https://github.com/adityadhariwal007/smart-indian-hackathon"><img src="https://img.shields.io/badge/Repo-0B1220?style=flat-square&amp;logo=github&amp;logoColor=white" alt="HealthFlow repository" /></a>
       </p>
     </td>
   </tr>
@@ -81,7 +67,7 @@
 <p align="center"><strong>Frontend</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=dark&amp;perline=7" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Ctailwind&amp;theme=dark&amp;perline=7" />
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&amp;theme=light&amp;perline=7" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js and Tailwind CSS" />
   </picture>
 </p>
@@ -89,7 +75,7 @@
 <p align="center"><strong>Backend</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=nodejs,express&amp;theme=light" alt="Node.js and Express" />
   </picture>
 </p>
@@ -97,7 +83,7 @@
 <p align="center"><strong>Database</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,supabase&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Csupabase&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=postgres,supabase&amp;theme=light" alt="PostgreSQL and Supabase" />
   </picture>
 </p>
@@ -105,7 +91,7 @@
 <p align="center"><strong>Tools &amp; deployment</strong></p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vite,vercel,cloudflare&amp;theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cgithub%2Cvite%2Cvercel%2Ccloudflare&amp;theme=dark" />
     <img src="https://skillicons.dev/icons?i=git,github,vite,vercel,cloudflare&amp;theme=light" alt="Git, GitHub, Vite, Vercel and Cloudflare" />
   </picture>
 </p>
@@ -147,25 +133,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aditya-dhariwal-3a9474280/">
-    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="Connect on LinkedIn" />
-  </a>
-  <a href="mailto:adityaa250707@gmail.com">
-    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" />
-  </a>
-  <a href="https://www.instagram.com/aditya.100_/">
-    <img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow aditya.100_ on Instagram" />
-  </a>
-  <a href="https://t.me/aditya_250707">
-    <img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram" />
-  </a>
+  <a href="https://www.linkedin.com/in/aditya-dhariwal-3a9474280/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:adityaa250707@gmail.com"><img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Send an email" /></a>
+  <a href="https://www.instagram.com/aditya.100_/"><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Follow aditya.100_ on Instagram" /></a>
+  <a href="https://t.me/aditya_250707"><img src="https://img.shields.io/badge/Telegram-0B1220?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Connect on Telegram" /></a>
 </p>
 
 <p align="center"><sub>Aditya Dhariwal · Build. Learn. Improve.</sub></p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220,100:2563EB&amp;height=100&amp;section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0B1220%2C100:2563EB&amp;height=100&amp;section=footer" />
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EFF6FF,100:BFDBFE&amp;height=100&amp;section=footer" alt="" />
   </picture>
 </p>
